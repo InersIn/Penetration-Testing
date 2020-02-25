@@ -8,7 +8,7 @@
 # pentest
 Penetration Testing Reports
 
-Semua hasil report disini hanya untuk dokumentasi, dan hanya dipublikasi hanya jika vulnerable tersebut sudah dipatch!
+Semua hasil report disini hanya untuk dokumentasi, dan hanya dipublikasi hanya jika vulnerable tersebut sudah dipatch atau sudah dilaporkan pada pihak bersangkutan!
 
 <b>Keep Do Something Interesting and Something Legal</b>
 
