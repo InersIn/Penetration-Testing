@@ -10,6 +10,8 @@ Penetration Testing Reports
 
 Semua hasil report disini hanya untuk dokumentasi, dan hanya dipublikasi hanya jika vulnerable tersebut sudah dipatch!
 
+<b>Keep Do Something Interesting and Something Legal</b>
+
 ### Contac Me:
 email: `sapu2776@gmail.com`
 
