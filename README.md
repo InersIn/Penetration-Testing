@@ -12,7 +12,7 @@ Semua hasil report disini hanya untuk dokumentasi, dan hanya dipublikasi hanya j
 
 <b>Keep Do Something Interesting and Something Legal</b>
 
-### Contac Me:
+### Contact Me:
 email: `sapu2776@gmail.com`
 
 twitter: `https:twitter.com/InersIn404`
