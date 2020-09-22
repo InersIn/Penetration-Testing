@@ -15,7 +15,7 @@ Semua hasil report disini hanya untuk dokumentasi, dan hanya dipublikasi hanya j
 ### Contac Me:
 email: `sapu2776@gmail.com`
 
-twitter: `https:twitter.com/MrXY404`
+twitter: `https:twitter.com/InersIn404`
 
 ### Donate:
 BITCOIN: `1PqFSrZcAtFui4qmGgFooVNz1ksXrQ75C9`
