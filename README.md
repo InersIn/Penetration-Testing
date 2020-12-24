@@ -13,7 +13,7 @@ Semua hasil report disini hanya untuk dokumentasi, dan hanya dipublikasi hanya j
 <b>Keep Do Something Interesting and Something Legal</b>
 
 ### Contact Me:
-email: `sapu2776@gmail.com`
+email: `parsecteams@gmail.com`
 
 
 ### Donate:
