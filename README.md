@@ -5,7 +5,7 @@
   PARSECT
 </h1>
 
-# pentest
+# Penetation Testing
 Penetration Testing Reports
 
 Semua hasil report disini hanya untuk dokumentasi, dan hanya dipublikasi hanya jika vulnerable tersebut sudah dipatch atau sudah dilaporkan pada pihak bersangkutan!
@@ -15,7 +15,6 @@ Semua hasil report disini hanya untuk dokumentasi, dan hanya dipublikasi hanya j
 ### Contact Me:
 email: `sapu2776@gmail.com`
 
-twitter: `https:twitter.com/InersIn404`
 
 ### Donate:
 BITCOIN: `1PqFSrZcAtFui4qmGgFooVNz1ksXrQ75C9`
